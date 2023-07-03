@@ -1,13 +1,16 @@
 ### Hi there 👋
+My name is Gabrielly. I'm 24 years old and I'm passionate about the field of software quality.
 
-QA Coordinator | Software Quality Analyst
+### QA Coordinator | Software Quality Analyst
 <hr>
-<br> <h3> About me: </h3> </br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?&logoColor=black&logo=javascript)&nbsp;  ![Cypress](https://img.shields.io/badge/-cypress-f01880?&logoColor=black&logo=cypress)&nbsp;
+### Sobre mim:</br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?&logoColor=black&logo=javascript)&nbsp;  ![Cypress](https://img.shields.io/badge/-cypress-f01880?&logoColor=black&logo=cypress)&nbsp;   
+![HTML](https://img.shields.io/badge/-HTML-f08818?&logoColor=black&logo=html)&nbsp;  ![CSS](https://img.shields.io/badge/-CSS-de1502?&logoColor=black&logo=CSS)&nbsp;
 
 
-<br><h3>Location:</h3></br>
+### Localização:
 <p> 📍 Vitória, Espírito Santo, Brazil </p>
 
 ### Onde me encontrar:
