@@ -1,73 +1,53 @@
-## 👋 Hello
+# Gabrielly Bellos
 
-I'm Gabrielly Bellos — Senior QA Engineer focused on building quality from the ground up.
+**Quality Engineer & SDET** — I build QA departments from scratch in complex systems.
 
----
-
-## 👩‍💻 About me
-
-💡 I work with **Quality Engineering, Test Automation and QA Strategy**, helping teams deliver reliable and scalable software.
+3 times in 5 years, I took companies from zero test infrastructure to full automation with traceability, governance, and CI/CD — across industrial IoT/OEE, POS/payments, and startup environments.
 
 ---
 
-## ⚙️ What I do
+### What I actually do
 
-- Structure QA areas from scratch  
-- Build scalable test automation (UI & API)  
-- Integrate quality into CI/CD pipelines  
-- Validate backend, data and integrations  
-- Work closely with developers to prevent bugs early  
-- Reduce technical debt and increase release predictability  
+I work at the intersection of quality and engineering. That means I don't just write tests — I design the infrastructure that makes testing possible:
 
----
-
-## 🤖 AI in QA
-
-I actively use **AI in my daily workflow**, including:
-
-- Test scenario generation  
-- Risk analysis  
-- Automation support  
-- Technical review of test cases  
-
-Tools: **OpenAI Codex / LLMs**
+- **Test architecture** — Playwright/Cypress frameworks with 4-layer POM, parallel execution, multi-environment strategy
+- **Backend validation** — APIs, SQL, logs, async processing, event-driven systems, data consistency
+- **CI/CD integration** — GitHub Actions, Azure DevOps, Jenkins, quality gates on PRs, release protection
+- **AI-powered QA** — Multi-agent systems for test generation, risk analysis, bug audit, and test healing using Claude Code, Codex, and MCP
+- **QA strategy** — Risk-based planning, end-to-end traceability, test data governance, quality culture
 
 ---
 
-## 🧪 Tech Stack
+### Featured projects
 
-### Automation & Testing: 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress) - ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright) - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-
-### Backend & Data
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
-
-### DevOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions) - ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops) - ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
-
-### Tools & Management
-![QASE](https://img.shields.io/badge/-QASE-4F46E5) - ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE) - ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion)
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**workspaceQA**](https://github.com/gaabybellos/workspaceQA) | Runner-agnostic QA workspace with 8 AI agents, discovery-driven testing, and hierarchical traceability. Designed to understand the product before choosing a tool. | Node.js, Claude Code, Codex, MCP |
+| **CogtiveQA** *(private)* | Enterprise QA hub for an industrial MES system. 125 automated tests, 4-layer POM, 351 docs, multi-agent orchestration pipeline. | TypeScript, Playwright, Allure, Docker, PostgreSQL |
 
 ---
 
-## 🌎 Location
+### Domain expertise
 
-📍 Rio de Janeiro, Brazil  
+`Industrial MES/OEE` · `IoT sensors` · `POS systems` · `Payment gateways` · `Fiscal/NFC-e` · `Financial reconciliation` · `High-volume SaaS` · `Event-driven systems`
+
+### Tech stack
+
+**Automation:** Playwright · Cypress · Allure Report · Page Object Model  
+**Languages:** TypeScript · JavaScript · Python · SQL  
+**Backend:** PostgreSQL · MySQL · REST APIs · Postman · Bruno · Insomnia  
+**CI/CD:** GitHub Actions · Azure DevOps · Jenkins · Docker  
+**AI Engineering:** Claude Code · OpenAI Codex · MCP · Multi-agent systems  
+**Process:** QASE · ClickUp · Notion · Confluence
+
+---
+
+### My approach
+
+> Quality is not a gate at the end of the pipeline. It's a structural part of how software gets built.
+
+I've structured QA areas from scratch 3 times. Each time, the pattern is the same: understand the system first (reverse engineering), define what matters (risk-based strategy), build the infrastructure (frameworks, environments, pipelines), and make quality invisible — integrated into every PR, every deploy, every decision.
 
 ---
 
-## 🔗 Let's connect
-
-<a href="https://www.linkedin.com/in/gabrielly-oliveira-bellos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-## 💬 About my approach
-
-I see QA as a **strategic role**, not just execution.
-
-➡️ *Better 10 minutes aligning than 2 weeks fixing bugs in production.*
-
----
+📍 Rio de Janeiro, Brazil · 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielly-oliveira-bellos/) · 📧 gabriellybellos@hotmail.com
