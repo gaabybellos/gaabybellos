@@ -52,6 +52,7 @@ In the last few years, I have helped companies move from little or no QA structu
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![PR Quality Gates](https://img.shields.io/badge/PR_Quality_Gates-16A34A?style=for-the-badge)
 
 ### AI Engineering for QA
 
@@ -83,6 +84,7 @@ I work at the intersection of quality and engineering. My focus is not only writ
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**workspaceQA**](https://github.com/gaabybellos/workspaceQA) | Open-source, runner-agnostic QA workspace for discovery-driven testing. It uses 8 AI agents, cross-surface governance, technical documentation, and hierarchical traceability before any automation runner is selected. | JavaScript, Node.js, Claude Code, OpenCode, Codex, MCP, JSON, YAML, TOML |
+| [**Porto Seguro QA Playwright**](https://github.com/gaabybellos/porto-seguro-qa-playwright) | Public QA automation project for Porto Seguro web flows, built to demonstrate Playwright automation with discovery documentation, UI, E2E, API/network tests, Page Object Model, componentized selectors, Allure metadata, PR validation, and manual cross-browser regression workflow. | JavaScript, Playwright, GitHub Actions, Allure, Page Object Model, API/Network Testing |
 | **CogtiveQA** *(private)* | Enterprise QA hub for a real industrial MES/OEE platform with IoT integrations, permission models, test data governance, 125 automated tests, 4-layer POM, Allure traceability, and multi-agent orchestration. | TypeScript, Playwright, Allure, Docker, Docker Compose, PostgreSQL, Node.js, Codex, Claude Code, MCP |
 
 ---
