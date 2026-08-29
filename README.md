@@ -1,43 +1,20 @@
 <div align="center">
   
-# GABRIELLY DE OLIVEIRA BELLOS
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,50:7C3AED,100:4338CA&height=220&section=header&text=Gabrielly%20Bellos&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20SDET%20%C2%B7%20Test%20Automation%20Architecture%20%C2%B7%20AI%20Agents%20for%20Quality&descSize=16&descAlignY=58&animation=fadeIn)
  
-### QA Engineer · SDET · Test Automation Architecture · AI Agents for Quality
- 
-*Quality that connects Dev, QA and DevOps — not competes with them.* 🩷
- 
-![Quality Engineering](https://img.shields.io/badge/Quality_Engineering-BE185D?style=for-the-badge)
-![SDET](https://img.shields.io/badge/SDET-7C3AED?style=for-the-badge)
-![Test Automation Architecture](https://img.shields.io/badge/Test_Automation_Architecture-4338CA?style=for-the-badge)
-![AI for QA](https://img.shields.io/badge/AI_for_QA-0F766E?style=for-the-badge)
-
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-<div align="center">
-  
-## *CONNECT* 🩷
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+quality+into+the+pipeline%2C+not+after+it;AI+agents+that+don't+hallucinate+the+architecture;QA+%C3%97+Dev+%C3%97+DevOps+%E2%80%94+one+discipline)](https://github.com/gaabybellos)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielly_Bellos-BE185D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-oliveira-bellos/)
 [![GitHub](https://img.shields.io/badge/GitHub-gaabybellos-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaabybellos)
-[![Email](https://img.shields.io/badge/Email-Contact_me-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabriellybellos@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_me-4338CA?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabriellybellos@hotmail.com)
  
-**Rio de Janeiro, Brazil**
-
-<br>
-
 </div>
 
-
-I build quality systems for complex products: test architecture, backend validation, CI/CD quality gates, traceability, and AI-assisted QA workflows that don't hallucinate about the project they're working on.
+I turn "nobody owns quality here" into "quality is designed in, not bolted on" — across QA, Dev and DevOps.
  
-In the last few years, I've helped companies move from little or no QA structure to scalable automation with governance, release confidence, and engineering visibility.across industrial MES/OEE, IoT, POS, payments, fiscal systems, enterprise integrations (Salesforce, VTEX, SAP) and startup environments.
-
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div
-
-<br>
-
+Capixaba, based in Rio de Janeiro. MBA in Software Quality Management, and hands-on across test architecture, backend validation, CI/CD governance, and AI-assisted QA that stays grounded in real project context instead of hallucinating it. I've built QA practice from zero more than once — same instinct, different industries.
+ 
 ## Where I add value
-
  
 <div align="center">
   
@@ -49,39 +26,47 @@ In the last few years, I've helped companies move from little or no QA structure
  
 </div>
 
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-
 ## Tech Stack
  
-### Automation & SDET
+**Automation & SDET**
+
+<br>
 
 ![Playwright](https://img.shields.io/badge/Playwright-BE185D?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-BE185D?style=for-the-badge&logo=cypress&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure_Report-BE185D?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-BE185D?style=for-the-badge&logo=appium&logoColor=white)
 ![4-Layer POM](https://img.shields.io/badge/4--Layer_POM-BE185D?style=for-the-badge)
-![E2E Testing](https://img.shields.io/badge/E2E_Testing-BE185D?style=for-the-badge)
+![Data-Driven Testing](https://img.shields.io/badge/Data--Driven_Testing-BE185D?style=for-the-badge)
  
-### Languages & Backend
+**Languages & Development**
+
+<br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge)
+![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
  
-### API, Data & Infrastructure
+**API, Data & Infrastructure**
+
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B45309?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-B45309?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-B45309?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-B45309?style=for-the-badge&logo=insomnia&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-B45309?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-B45309?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-B45309?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-B45309?style=for-the-badge&logo=docker&logoColor=white)
  
-### Enterprise Platforms & Cloud
+**Enterprise Platforms & Cloud**
+
+<br>
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-4338CA?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-4338CA?style=for-the-badge&logo=sap&logoColor=white)
@@ -89,18 +74,30 @@ In the last few years, I've helped companies move from little or no QA structure
 ![Sensedia](https://img.shields.io/badge/Sensedia_API_Mgmt-4338CA?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-4338CA?style=for-the-badge&logo=microsoftazure&logoColor=white)
  
-### CI/CD & Quality Governance
+**CI/CD & Quality Governance**
+
+<br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15803D?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-15803D?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-15803D?style=for-the-badge&logo=jenkins&logoColor=white)
 ![PR Quality Gates](https://img.shields.io/badge/PR_Quality_Gates-15803D?style=for-the-badge)
 ![QASE](https://img.shields.io/badge/QASE-15803D?style=for-the-badge)
-![ClickUp](https://img.shields.io/badge/ClickUp-15803D?style=for-the-badge&logo=clickup&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-15803D?style=for-the-badge&logo=notion&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-15803D?style=for-the-badge&logo=confluence&logoColor=white)
  
-### AI Engineering for QA
+**Agile & Delivery**
+
+<br>
+
+![Jira](https://img.shields.io/badge/Jira-9F1239?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-9F1239?style=for-the-badge&logo=confluence&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-9F1239?style=for-the-badge&logo=clickup&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-9F1239?style=for-the-badge&logo=notion&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-9F1239?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-9F1239?style=for-the-badge)
+ 
+**AI Engineering for QA**
+
+<br>
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0F766E?style=for-the-badge)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-0F766E?style=for-the-badge&logo=openai&logoColor=white)
@@ -109,45 +106,31 @@ In the last few years, I've helped companies move from little or no QA structure
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-0F766E?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-0F766E?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0F766E?style=for-the-badge)
-![Multi-Agent QA](https://img.shields.io/badge/Multi--Agent_QA-0F766E?style=for-the-badge)
+![Custom Agent Skills](https://img.shields.io/badge/Custom_Agent_Skills-0F766E?style=for-the-badge)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-0F766E?style=for-the-badge)
-![Test Generation](https://img.shields.io/badge/Test_Generation-0F766E?style=for-the-badge)
-![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-0F766E?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-0F766E?style=for-the-badge)
  
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-
-## What I Do
- 
-I work at the intersection of quality and engineering. My focus is not only writing tests, but designing the infrastructure that makes testing useful, traceable, and sustainable — for QA, Dev and DevOps alike.
- 
-- **Test architecture:** Playwright and Cypress frameworks, 4-layer Page Object Model, parallel execution, resilient selectors, tags, reports, and multi-environment strategy.
-- **Backend & enterprise integration validation:** REST APIs, payloads, contracts, authentication, SQL, logs, async workers, events, and data consistency across enterprise platforms (Salesforce, SAP, VTEX).
-- **CI/CD integration:** GitHub Actions, Azure DevOps, Jenkins, Docker, PR quality gates, release protection, and suite stability monitoring — quality as a pipeline concern, not a final gate.
-- **AI-powered QA & context engineering:** Multi-agent workflows for discovery, test planning, test generation, risk analysis, bug audit, and test healing using Claude Code, OpenAI Codex, Cursor, GitHub Copilot, Gemini CLI and MCP — including grounding agents in accurate project context so they extend real architecture instead of hallucinating it.
-- **QA strategy:** Risk-based planning, reverse engineering, traceability, test data governance, regression strategy, smoke strategy, and quality culture.
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-
 ## Featured Projects
  
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**workspaceQA**](https://github.com/gaabybellos/workspaceQA) | Open-source, runner-agnostic QA workspace for discovery-driven testing. Uses 8 AI agents, cross-surface governance, technical documentation, and hierarchical traceability before any automation runner is selected. | JavaScript, Node.js, Claude Code, OpenCode, Codex, MCP, JSON, YAML, TOML |
-| [**Porto Seguro QA Playwright**](https://github.com/gaabybellos/porto-seguro-qa-playwright) — [![CI](https://github.com/gaabybellos/porto-seguro-qa-playwright/actions/workflows/pr-validation.yml/badge.svg)](https://github.com/gaabybellos/porto-seguro-qa-playwright/actions) | Public QA automation project built via black-box discovery (no source access): UI, E2E and API/network tests, Page Object Model, Allure metadata, PR validation and cross-browser regression pipelines. | JavaScript, Playwright, GitHub Actions, Allure, Page Object Model |
-| **CogtiveQA** *(private)* | Enterprise QA hub for a real industrial MES/OEE platform with IoT integrations, permission models, test data governance, 125 automated tests, 4-layer POM, Allure traceability, and multi-agent orchestration. | TypeScript, Playwright, Allure, Docker, Docker Compose, PostgreSQL, Node.js, Codex, Claude Code, MCP |
+| Project | What it is | Stack | CI |
+| --- | --- | --- | :---: |
+| **Sofist** *(private)* | Two private, enterprise-account test automation projects on Azure and GitHub. Own the architecture across two parallel teams — Salesforce, VTEX and B2B/B2C integrations, reverse engineering undocumented systems, and the AI context layer that keeps Copilot grounded in the real architecture. | TypeScript, Playwright, Azure DevOps, Allure Pipeline, Jira, Jest+ Supertest, REST APIs, SAP, Git Salesforce, VTEX, GitHub Copilot, Gemini CLI MCP | — |
+| [**workspaceQA**](https://github.com/gaabybellos/workspaceQA) | Open-source, runner-agnostic QA workspace for discovery-driven testing. 8 AI agents, cross-surface governance, and hierarchical traceability before any automation runner is selected. | JavaScript, Node.js, Claude Code, OpenCode, Codex, MCP | — |
+| [**Porto Seguro QA Playwright**](https://github.com/gaabybellos/porto-seguro-qa-playwright) | Public QA automation built via black-box discovery (no source access): UI, E2E, API/network tests, Page Object Model, Allure metadata, PR validation and cross-browser regression. | JavaScript, Playwright, GitHub Actions, Allure | [![CI](https://github.com/gaabybellos/porto-seguro-qa-playwright/actions/workflows/pr-validation.yml/badge.svg)](https://github.com/gaabybellos/porto-seguro-qa-playwright/actions) |
+| **CogtiveQA** *(private)* | Enterprise QA hub for a real industrial MES/OEE platform: IoT integrations, permission models, 125 automated tests, 4-layer POM, Allure traceability, multi-agent orchestration. | Cypress, Javascript, TypeScript, Playwright, Allure, Postgresql, Python, Docker, PostgreSQL, OpenAI Codex, Claude | — |
+| **Yooga** *(private)* | As QA Lead, built and led test automation, quality strategy and CI/CD from zero across a full POS/fiscal/payments ecosystem — iFood, payment gateways, SEFAZ fiscal integration and delivery. Reached 80% automation on critical flows and cut validation time by 40%. | Cypress, Javascript, Jenkins, GitHub Actions, QASE, Postman, SQL | — |
  
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-
-## Domain Expertise
+## GitHub Activity
  
-Industrial MES/OEE · IoT sensors · POS systems · Payment gateways · Fiscal/NFC-e · Financial reconciliation · High-volume SaaS · Event-driven systems · Delivery integrations · Enterprise CRM/commerce integrations (Salesforce, VTEX, SAP)
+<div align="center">
+  
+![Gabrielly's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=gaabybellos&theme=default&hide_border=true&background=FFFFFF&ring=BE185D&fire=BE185D&currStreakLabel=1F2937)
  
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
+</div>
 
 ## My Approach
  
-Quality is not a gate at the end of the pipeline. It is part of how software is designed, reviewed, shipped, and maintained.
- 
-My pattern is simple:
+Quality is not a gate at the end of the pipeline — it's part of how software is designed, reviewed, shipped, and maintained.
  
 1. Understand the system through discovery and reverse engineering.
 2. Identify critical risks, business rules, data flows, and integration points.
@@ -156,22 +139,14 @@ My pattern is simple:
 5. Ground AI agents in that same context, so they assist without hallucinating it.
 6. Keep quality visible to engineering and invisible as friction to delivery.
    
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
-
-## Current Focus
+## Domain Expertise
  
-![Discovery-Driven QA](https://img.shields.io/badge/Discovery--Driven_QA-BE185D?style=for-the-badge)
-![End-to-End Traceability](https://img.shields.io/badge/End--to--End_Traceability-7C3AED?style=for-the-badge)
-![Quality Gates](https://img.shields.io/badge/Quality_Gates-15803D?style=for-the-badge)
-![Test Data Governance](https://img.shields.io/badge/Test_Data_Governance-B45309?style=for-the-badge)
-![Context Engineering for AI Agents](https://img.shields.io/badge/Context_Engineering_for_AI_Agents-0F766E?style=for-the-badge)
-![QA × Dev × DevOps Bridge](https://img.shields.io/badge/QA_×_Dev_×_DevOps_Bridge-4338CA?style=for-the-badge)
+Industrial MES/OEE · IoT sensors · POS systems · Payment gateways · Fiscal/NFC-e · Financial reconciliation · High-volume SaaS · Event-driven systems · Delivery integrations · Enterprise CRM/commerce integrations
  
-<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
 <div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:7C3AED,100:BE185D&height=110&section=footer&reversal=true)
  
-*Quality, built in — not bolted on.* 🩷
+**Rio de Janeiro, Brazil** · *Quality, built in — not bolted on.* 🩷
  
 </div>
- 
-
