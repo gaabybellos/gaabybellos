@@ -1,6 +1,6 @@
 <div align="center">
   
-# Gabrielly Bellos
+# GABRIELLY DE OLIVEIRA BELLOS
  
 ### QA Engineer · SDET · Test Automation Architecture · AI Agents for Quality
  
@@ -10,15 +10,27 @@
 ![SDET](https://img.shields.io/badge/SDET-7C3AED?style=for-the-badge)
 ![Test Automation Architecture](https://img.shields.io/badge/Test_Automation_Architecture-4338CA?style=for-the-badge)
 ![AI for QA](https://img.shields.io/badge/AI_for_QA-0F766E?style=for-the-badge)
+
+<div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
+<div align="center">
+  
+## *CONNECT* 🩷
+
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielly_Bellos-BE185D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-oliveira-bellos/)
 [![GitHub](https://img.shields.io/badge/GitHub-gaabybellos-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaabybellos)
+[![Email](https://img.shields.io/badge/Email-Contact_me-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabriellybellos@hotmail.com)
  
-</div>
+**Rio de Janeiro, Brazil**
+
 <br>
+
+</div>
+
+
 I build quality systems for complex products: test architecture, backend validation, CI/CD quality gates, traceability, and AI-assisted QA workflows that don't hallucinate about the project they're working on.
  
-In the last few years, I've helped companies move from little or no QA structure to scalable automation with governance, release confidence, and engineering visibility — across industrial MES/OEE, IoT, POS, payments, fiscal systems, enterprise integrations (Salesforce, VTEX, SAP) and startup environments.
+In the last few years, I've helped companies move from little or no QA structure to scalable automation with governance, release confidence, and engineering visibility.across industrial MES/OEE, IoT, POS, payments, fiscal systems, enterprise integrations (Salesforce, VTEX, SAP) and startup environments.
 
 <div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div
 
@@ -157,14 +169,6 @@ My pattern is simple:
  
 <div align="center">⁺ ‧ ₊ ˚ ✧ ˚ ₊ ‧ ⁺</div>
 <div align="center">
-  
-## Connect
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielly_Bellos-BE185D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-oliveira-bellos/)
-[![GitHub](https://img.shields.io/badge/GitHub-gaabybellos-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaabybellos)
-[![Email](https://img.shields.io/badge/Email-Contact_me-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabriellybellos@hotmail.com)
- 
-**Rio de Janeiro, Brazil**
  
 *Quality, built in — not bolted on.* 🩷
  
