@@ -121,13 +121,6 @@ Capixaba, based in Rio de Janeiro. MBA in Software Quality Management, and hands
 | **Yooga** *(private)* | As QA Lead, built and led test automation, quality strategy and CI/CD from zero across a full POS/fiscal/payments ecosystem — iFood, payment gateways, SEFAZ fiscal integration and delivery. Reached 80% automation on critical flows and cut validation time by 40%. | Cypress, Javascript, Jenkins, GitHub Actions, QASE, Postman, SQL | — |
 | **RadarSalesClient** *(private)* | Personal CRM (Next.js + Prisma/Postgres) for a car sales rep: fast client intake, stage-based deal tracking, a daily "today" view for overdue follow-ups, and automatic handoff to partners (insurance, detailing, accessories) after a sale closes. Single-user auth with bcrypt, rate limiting and HttpOnly sessions, Dockerized for self-hosting. | Next.js, TypeScript, PostgreSQL, Prisma, Docker | — |
  
-## GitHub Activity
- 
-<div align="center">
-  
-![Gabrielly's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=gaabybellos&theme=default&hide_border=true&background=FFFFFF&ring=BE185D&fire=BE185D&currStreakLabel=1F2937)
- 
-</div>
 
 ## My Approach
  
